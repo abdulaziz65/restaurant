@@ -1,7 +1,9 @@
 *{
     font-family: 'Rubik', sans-serif;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 #scrolltopBtn {
     display: none;
     position: fixed;
