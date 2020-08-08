@@ -811,6 +811,11 @@ footer{
     flex-wrap: wrap;
     margin: 20px 0;
 }
+.call-to-info a{
+  text-decoration:none;
+    color:#fff;
+    outline:none;
+  }
 .call-to-col{
     width: 100%;
     display: flex;
