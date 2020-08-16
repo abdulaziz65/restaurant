@@ -412,6 +412,9 @@ About section
 .menu-item-info-con:hover{
     top: -220px;
 }
+.menu-item-info-con:active{
+    top: -220px;
+}
 .menu-item-info h3{
     font-size: 18px;
     font-weight: 400;
